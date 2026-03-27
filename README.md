@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge" />
 </p>
 
-<h1 align="center">⏳ TimeLocky</h1>
+<h1 align="center"><a href="https://github.com/SuperKunten/TimeLocky/">⏳ TimeLocky</a></h1>
 <h3 align="center">Solana Token Vesting & Time-Locking Made Easy</h3>
 
 <p align="center">
