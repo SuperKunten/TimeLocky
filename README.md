@@ -21,7 +21,7 @@ For a detailed installation and usage guide, please see [GUIDE.md](GUIDE.md).
 ### 🛠️ Installation
 
 ```bash
-cd "Timelock SOL"
+cd "Timelocky"
 python setup.py          # installs deps + builds Rust extension
 ```
 
