@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/UI-CustomTkinter-blue?style=for-the-badge" />
 </p>
 
-<h1 align="center"><a href="https://github.com/SuperKunten/TimeLocky/">⏳ TimeLocky | Full Source: $100</a></h1>
+<h1 align="center"><a href="https://github.com/SuperKunten/TimeLocky/">⏳ TimeLocky | Solana Token Vesting Tool</a></h1>
 
 <h3 align="center">No-nonsense Solana Token Vesting & Time-Locks</h3>
 
