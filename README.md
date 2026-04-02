@@ -5,19 +5,27 @@
 </p>
 
 <h1 align="center"><a href="https://github.com/SuperKunten/TimeLocky/">⏳ TimeLocky | Full Source: $100</a></h1>
+
 <h3 align="center">No-nonsense Solana Token Vesting & Time-Locks</h3>
 
 <p align="center">
 A lightweight desktop tool to create and manage on-chain SPL token locks,
-
-
 vesting schedules, and automated payment streams.
 </p>
-📬 
-Telegram: t.me/timelocky
-Dev: @bandokaay_ofb
 
 <p align="center">
 <a href="https://t.me/timelocky">Telegram</a> •
 <a href="https://github.com/SuperKunten/TimeLocky">GitHub</a>
 </p>
+
+---
+
+### 📋 Requirements
+* **Python 3.10+**
+* **Dependencies:** `solana`, `solders`, `customtkinter`, `cryptography`, `requests`
+* **Build Tool:** `maturin` (for Rust extensions)
+
+### ⚡ Quick Start
+**1. Install dependencies:**
+```bash
+pip install -r requirements.txt
