@@ -21,16 +21,16 @@ For a detailed installation and usage guide, please see [GUIDE.md](GUIDE.md).
 ### 🛠️ Installation
 
 ```bash
-cd "Timelocky"
-python setup.py          # installs deps + builds Rust extension
-```
-
-Or manually:
-
-```bash
 pip install -r requirements.txt
 pip install maturin && maturin develop --release   # optional Rust build
 ```
+
+```bash
+cd "Timelocky"
+python main.py          # installs deps + builds Rust extension
+```
+
+
 
 ### ▶️ Run
 
