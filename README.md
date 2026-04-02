@@ -25,17 +25,10 @@ pip install -r requirements.txt
 pip install maturin && maturin develop --release   # optional Rust build
 ```
 
-```bash
-cd "Timelocky"
-python main.py          # installs deps + builds Rust extension
-```
-
-
-
 ### ▶️ Run
 
 ```bash
-python main.py
+python main.py | py main.py
 ```
 
 ### 🎉 First launch
