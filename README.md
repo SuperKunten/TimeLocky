@@ -13,6 +13,9 @@ A lightweight desktop tool to create and manage on-chain SPL token locks,
 
 vesting schedules, and automated payment streams.
 </p>
+📬 
+Telegram: t.me/timelocky
+Dev: @bandokaay_ofb
 
 <p align="center">
 <a href="https://t.me/timelocky">Telegram</a> •
